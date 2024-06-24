@@ -753,8 +753,8 @@ a:focus {
 }
 
 .contact4 .btn {
-  color: #fff;
-  background-color: rgba(0, 10, 77, 0.6);
+  color: #000;
+  background-color: var(--secondary-color);
   border-radius: 0;
 }
 
